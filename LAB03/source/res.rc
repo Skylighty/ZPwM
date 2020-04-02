@@ -1,0 +1,354 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "res.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Polish (Poland) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_PLK)
+LANGUAGE LANG_POLISH, SUBLANG_DEFAULT
+#pragma code_page(1250)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "res.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_MAINICON            ICON                    "kik.ico"
+
+IDI_FIRST               ICON                    "kayko.ico"
+
+IDI_SECOND              ICON                    "kokosh.ico"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MAINMENU MENU
+BEGIN
+    POPUP "Atrybuty"
+    BEGIN
+        MENUITEM "Niski",                       ID_ATRYBUTY_NISKI40048
+        MENUITEM "Odwazny",                     ID_ATRYBUTY_ODWAZNY40049
+        MENUITEM "Inteligentny",                ID_ATRYBUTY_INTELIGENTNY40050
+        MENUITEM "Dobry strzelec",              ID_ATRYBUTY_DOBRYSTRZELEC40051
+        MENUITEM "Dobry szermierz",             ID_ATRYBUTY_DOBRYSZERMIERZ40052
+        MENUITEM "Blyskotliwy",                 ID_ATRYBUTY_BYLSKOTLIWY
+    END
+    POPUP "Uzbrojenie"
+    BEGIN
+        MENUITEM "Mieczyk",                     ID_UZBROJENIE_MIECZYK
+        MENUITEM "Luk i strzaly",               ID_UZBROJENIE_LUK
+        MENUITEM "Spryt",                       ID_UZBROJENIE_SPRYT
+    END
+    POPUP "Ubior"
+    BEGIN
+        MENUITEM "Czerwona czapeczka",          ID_UBIOR_CZERWONACZAPECZKA
+        MENUITEM "Pomaranczowo-czarny kaftan",  ID_UBIOR_POMARANCZOWO
+        MENUITEM "Czerwony pas",                ID_UBIOR_CZERWONYPAS
+        MENUITEM "Zielone bryczesy",            ID_UBIOR_ZIELONEBRYCZESY
+        MENUITEM "Brazowe butki",               ID_UBIOR_BRAZOWEBUTKI
+    END
+    POPUP "Srodki transportu"
+    BEGIN
+        MENUITEM "Kon",                         ID_SRODKITRANSPORTU_KON
+        MENUITEM "Latajaca miotla",             ID_SRODKITRANSPORTU_LATAJACAMIOTLA
+        MENUITEM "Latajaca kloda",              ID_SRODKITRANSPORTU_LATAJACAKLODA
+        MENUITEM "Lodz",                        ID_SRODKITRANSPORTU_LODZ
+        MENUITEM "Smok Milus",                  ID_SRODKITRANSPORTU_SMOKMILUS
+    END
+    POPUP "Formy i tresci"
+    BEGIN
+        POPUP "Komiksy"
+        BEGIN
+            POPUP "Stary cykl"
+            BEGIN
+                POPUP "XX wiek"
+                BEGIN
+                    POPUP "Lata 70"
+                    BEGIN
+                        POPUP "Prasa"
+                        BEGIN
+                            MENUITEM "Zloty puchar",                ID_PRASA_ZLOTYPUCHAR
+                            MENUITEM "Konkury i szranki",           ID_PRASA_KONKURYISZRANKI
+                            MENUITEM "Woje Mirmila",                ID_PRASA_WOJEMIRMILA
+                            MENUITEM "Szkola latania",              ID_PRASA_SZKOLALATANIA
+                            MENUITEM "Wielki turniej",              ID_PRASA_WIELKITURNIEJ
+                            MENUITEM "Na wczasach",                 ID_PRASA_NAWCZASACH
+                            MENUITEM "Zamach na Milusia",           ID_PRASA_ZAMACHNAMILUSIA
+                        END
+                    END
+                    POPUP "Lata 80"
+                    BEGIN
+                        POPUP "1-czesciowe"
+                        BEGIN
+                            MENUITEM "Skarby Mirmila",              ID_1_SKARBYMIRMILA
+                            MENUITEM "Cudowny lek",                 ID_1_CUDOWNYLEK
+                            MENUITEM "Dzien Smiechaly",             ID_1_DZIENSMIECHALY
+                            MENUITEM "W krainie Borostworow",       ID_1_WKRAINIEBOROSTWOROW
+                        END
+                        POPUP "2-czesciowe"
+                        BEGIN
+                            MENUITEM "Zloty puchar",                ID_2_ZLOTYPUCHAR
+                            MENUITEM "Szranki i konkury",           ID_2_SZRANKIIKONKURY
+                            MENUITEM "Woje Mirmila",                ID_2_WOJEMIRMILA
+                        END
+                    END
+                    POPUP "Lata 90"
+                    BEGIN
+                        MENUITEM "Mirmil w opalach",            ID_LATA90_MIRMILWOPALACH
+                        MENUITEM "Urodziny Milusia",            ID_LATA90_URODZINYMILUSIA
+                    END
+                END
+            END
+            POPUP "Nowy cykl"
+            BEGIN
+                MENUITEM "Obled Hegemona",              ID_NOWYCYKL_OBLEDHEGEMONA
+                MENUITEM "Lamignat Straszliwy",         ID_NOWYCYKL_LAMIGNATSTRASZLIWY
+                MENUITEM "Krolewska Konna",             0
+            END
+        END
+        POPUP "Gry"
+        BEGIN
+            MENUITEM "Kajko i Kokosz (1994)",       ID_GRY_KAJKOIKOKOSZ
+            MENUITEM "W krainie Borostworow (1998)", ID_GRY_WKRAINIEBOROSTWOROW
+            MENUITEM "Kajko i Kokosz - Szkola latania (2005)", ID_GRY_KAJKOIKOKOSZ40035
+            MENUITEM "Kajko i Kokosz 2 - Cudowny lek (2006)", ID_GRY_KAJKOIKOKOSZ2
+            MENUITEM "Kajko i Kokosz - Twierdza czarnoksieznika (2012)", ID_GRY_KAJKOIKOKOSZ40039
+        END
+        POPUP "Teatr"
+        BEGIN
+            MENUITEM "Adaptacja z 1986",            ID_TEATR_ADAPTACJAZ1986
+            MENUITEM "Adaptacja z 2010",            ID_TEATR_ADAPTACJAZ2010
+        END
+    END
+END
+
+IDR_SECMENU MENU
+BEGIN
+    POPUP "Atrybuty"
+    BEGIN
+        MENUITEM "Wielki",                      ID_ATRYBUTY_INTELIGENTNY
+        MENUITEM "Silny",                       ID_ATRYBUTY_ODWAZNY
+        MENUITEM "Tchorzliwy",                  ID_ATRYBUTY_NISKI
+        MENUITEM "Obzartuch",                   ID_ATRYBUTY_DOBRYSZERMIERZ
+        MENUITEM "Lysy",                        ID_ATRYBUTY_DOBRYSTRZELEC
+    END
+    POPUP "Uzbrojenie"
+    BEGIN
+        MENUITEM "Wielkie piesci",              ID_UZBROJENIE_WIELKIEPIESCI
+        MENUITEM "Tarcza",                      ID_UZBROJENIE_TARCZA
+        MENUITEM "Rog",                         ID_UZBROJENIE_ROG
+    END
+    POPUP "Ubior"
+    BEGIN
+        MENUITEM "Maly helmik",                 ID_UBIOR_MALYHELMIK
+        MENUITEM "Rozowa koszula",              ID_UBIOR_ROZOWAKOSZULA
+        MENUITEM "Czerwony pas",                ID_UBIOR_CZERWONYPAS40061
+        MENUITEM "Czarne bryczesy",             ID_UBIOR_CZARNEBRYCZESY
+        MENUITEM "Brazowe butki",               ID_UBIOR_BRAZOWEBUTKI40063
+    END
+    POPUP "Srodki transportu"
+    BEGIN
+        MENUITEM "Lodz",                        ID_SRODKITRANSPORTU_LODZ40075
+        MENUITEM "Smok Milus",                  ID_SRODKITRANSPORTU_SMOKMILUS40076
+        MENUITEM "Latajaca kloda",              ID_SRODKITRANSPORTU_LATAJACAKLODA40077
+        MENUITEM "Latajaca miotla",             ID_SRODKITRANSPORTU_LATAJACAMIOTLA40078
+    END
+    POPUP "Formy i tresci"
+    BEGIN
+        POPUP "Komiksy"
+        BEGIN
+            POPUP "Stary cykl"
+            BEGIN
+                POPUP "XX wiek"
+                BEGIN
+                    POPUP "Lata 70"
+                    BEGIN
+                        POPUP "Prasa"
+                        BEGIN
+                            MENUITEM "Zloty puchar",                ID_PRASA_ZLOTYPUCHAR
+                            MENUITEM "Konkury i szranki",           ID_PRASA_KONKURYISZRANKI
+                            MENUITEM "Woje Mirmila",                ID_PRASA_WOJEMIRMILA
+                            MENUITEM "Szkola latania",              ID_PRASA_SZKOLALATANIA
+                            MENUITEM "Wielki turniej",              ID_PRASA_WIELKITURNIEJ
+                            MENUITEM "Na wczasach",                 ID_PRASA_NAWCZASACH
+                            MENUITEM "Zamach na Milusia",           ID_PRASA_ZAMACHNAMILUSIA
+                        END
+                    END
+                    POPUP "Lata 80"
+                    BEGIN
+                        POPUP "1-czesciowe"
+                        BEGIN
+                            MENUITEM "Skarby Mirmila",              ID_1_SKARBYMIRMILA
+                            MENUITEM "Cudowny lek",                 ID_1_CUDOWNYLEK
+                            MENUITEM "Dzien Smiechaly",             ID_1_DZIENSMIECHALY
+                            MENUITEM "W krainie Borostworow",       ID_1_WKRAINIEBOROSTWOROW
+                        END
+                        POPUP "2-czesciowe"
+                        BEGIN
+                            MENUITEM "Zloty puchar",                ID_2_ZLOTYPUCHAR
+                            MENUITEM "Szranki i konkury",           ID_2_SZRANKIIKONKURY
+                            MENUITEM "Woje Mirmila",                ID_2_WOJEMIRMILA
+                        END
+                    END
+                    POPUP "Lata 90"
+                    BEGIN
+                        MENUITEM "Mirmil w opalach",            ID_LATA90_MIRMILWOPALACH
+                        MENUITEM "Urodziny Milusia",            ID_LATA90_URODZINYMILUSIA
+                    END
+                END
+            END
+            POPUP "Nowy cykl"
+            BEGIN
+                MENUITEM "Obled Hegemona",              ID_NOWYCYKL_OBLEDHEGEMONA
+                MENUITEM "Lamignat Straszliwy",         ID_NOWYCYKL_LAMIGNATSTRASZLIWY
+                MENUITEM "Krolewska Konna",             0
+            END
+        END
+        POPUP "Gry"
+        BEGIN
+            MENUITEM "Kajko i Kokosz (1994)",       ID_GRY_KAJKOIKOKOSZ
+            MENUITEM "W krainie Borostworow (1998)", ID_GRY_WKRAINIEBOROSTWOROW
+            MENUITEM "Kajko i Kokosz - Szkola latania (2005)", ID_GRY_KAJKOIKOKOSZ40035
+            MENUITEM "Kajko i Kokosz 2 - Cudowny lek (2006)", ID_GRY_KAJKOIKOKOSZ2
+            MENUITEM "Kajko i Kokosz - Twierdza czarnoksieznika (2012)", ID_GRY_KAJKOIKOKOSZ40039
+        END
+        POPUP "Teatr"
+        BEGIN
+            MENUITEM "Adaptacja z 1986",            ID_TEATR_ADAPTACJAZ1986
+            MENUITEM "Adaptacja z 2010",            ID_TEATR_ADAPTACJAZ2010
+        END
+    END
+END
+
+#endif    // Polish (Poland) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English (United States) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_MAINVIEW DIALOGEX 0, 0, 513, 224
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CAPTION | WS_SYSMENU | WS_THICKFRAME
+CAPTION "KAJKO"
+FONT 8, "MS Shell Dlg", 400, 0, 0x0
+BEGIN
+    PUSHBUTTON      "No kliknij...",IDC_BUTTON1,180,69,151,74
+END
+
+IDD_SECVIEW DIALOGEX 0, 0, 511, 218
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CAPTION | WS_SYSMENU | WS_THICKFRAME
+CAPTION "KOKOSZ"
+FONT 8, "MS Shell Dlg", 400, 0, 0x0
+BEGIN
+    PUSHBUTTON      "Przycisnij guzik...",IDC_BUTTON1,175,60,157,82
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_MAINVIEW, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 506
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 217
+    END
+
+    IDD_SECVIEW, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 504
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 211
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// AFX_DIALOG_LAYOUT
+//
+
+IDD_MAINVIEW AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+IDD_SECVIEW AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+#endif    // English (United States) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

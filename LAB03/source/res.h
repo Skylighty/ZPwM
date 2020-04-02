@@ -1,0 +1,102 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ generated include file.
+// Used by res.rc
+//
+#define IDD_MAINVIEW                    101
+#define IDD_SECVIEW                     102
+#define IDI_FIRST                       113
+#define IDI_SECOND                      108
+#define IDR_MENU1                       109
+#define IDR_MAINMENU                    111
+#define IDR_SECMENU                     112
+#define IDI_MAINICON                    107
+#define IDC_BUTTON1                     1002
+#define ID_OPOWIADANIA_STARYCYKL        40001
+#define ID_STARYCYKL_XXWIEK             40002
+#define ID_XXWIEK_LATA70                40003
+#define ID_XXWIEK_LATA80                40004
+#define ID_XXWIEK_LATA90                40005
+#define ID_LATA70_2                     40006
+#define ID_LATA70_1                     40007
+#define ID_LATA80_2                     40008
+#define ID_LATA80_3                     40009
+#define ID_2_ZLOTYPUCHAR                40010
+#define ID_2_SZRANKIIKONKURY            40011
+#define ID_2_WOJEMIRMILA                40012
+#define ID_LATA70_PRASA                 40013
+#define ID_PRASA_ZLOTYPUCHAR            40014
+#define ID_PRASA_KONKURYISZRANKI        40015
+#define ID_PRASA_WOJEMIRMILA            40016
+#define ID_2_SZKOLALATANIA              40017
+#define ID_PRASA_SZKOLALATANIA          40018
+#define ID_PRASA_WIELKITURNIEJ          40019
+#define ID_PRASA_NAWCZASACH             40020
+#define ID_PRASA_ZAMACHNAMILUSIA        40021
+#define ID_1_SKARBYMIRMILA              40022
+#define ID_1_CUDOWNYLEK                 40023
+#define ID_1_DZIENSMIECHALY             40024
+#define ID_1_WKRAINIEBOROSTWOROW        40025
+#define ID_LATA90_MIRMILWOPALACH        40026
+#define ID_LATA90_URODZINYMILUSIA       40027
+#define ID_OPOWIADANIA_NOWYCYKL         40028
+#define ID_NOWYCYKL_OBLEDHEGEMONA       40029
+#define ID_NOWYCYKL_LAMIGNATSTRASZLIWY  40030
+#define ID_NOWYCYKL_KROLEWSKAKONNA      40031
+#define ID_OPOWIADANIA_GRY              40032
+#define ID_GRY_KAJKOIKOKOSZ             40033
+#define ID_GRY_WKRAINIEBOROSTWOROW      40034
+#define ID_GRY_KAJKOIKOKOSZ40035        40035
+#define ID_GRY_KAJKOIKOKOSZ2            40036
+#define ID_FORMYITRESCI_KOMIKSY         40037
+#define ID_KOMIKSY_X                    40038
+#define ID_GRY_KAJKOIKOKOSZ40039        40039
+#define ID_FORMYITRESCI_TEATR           40040
+#define ID_TEATR_ADAPTACJAZ1986         40041
+#define ID_TEATR_ADAPTACJAZ2010         40042
+#define ID_ATRYBUTY_INTELIGENTNY        40043
+#define ID_ATRYBUTY_ODWAZNY             40044
+#define ID_ATRYBUTY_NISKI               40045
+#define ID_ATRYBUTY_DOBRYSZERMIERZ      40046
+#define ID_ATRYBUTY_DOBRYSTRZELEC       40047
+#define ID_ATRYBUTY_NISKI40048          40048
+#define ID_ATRYBUTY_ODWAZNY40049        40049
+#define ID_ATRYBUTY_INTELIGENTNY40050   40050
+#define ID_ATRYBUTY_DOBRYSTRZELEC40051  40051
+#define ID_ATRYBUTY_DOBRYSZERMIERZ40052 40052
+#define ID_ATRYBUTY_BYLSKOTLIWY         40053
+#define ID_UBIOR_CZERWONACZAPECZKA      40054
+#define ID_UBIOR_POMARANCZOWO           40055
+#define ID_UBIOR_CZERWONYPAS            40056
+#define ID_UBIOR_ZIELONEBRYCZESY        40057
+#define ID_UBIOR_BRAZOWEBUTKI           40058
+#define ID_UBIOR_MALYHELMIK             40059
+#define ID_UBIOR_ROZOWAKOSZULA          40060
+#define ID_UBIOR_CZERWONYPAS40061       40061
+#define ID_UBIOR_CZARNEBRYCZESY         40062
+#define ID_UBIOR_BRAZOWEBUTKI40063      40063
+#define ID_UZBROJENIE_WIELKIEPIESCI     40064
+#define ID_UZBROJENIE_MIECZYK           40065
+#define ID_UZBROJENIE_LUK               40066
+#define ID_UZBROJENIE_SPRYT             40067
+#define ID_UZBROJENIE_TARCZA            40068
+#define ID_UZBROJENIE_ROG               40069
+#define ID_SRODKITRANSPORTU_KON         40070
+#define ID_SRODKITRANSPORTU_LATAJACAMIOTLA 40071
+#define ID_SRODKITRANSPORTU_LATAJACAKLODA 40072
+#define ID_SRODKITRANSPORTU_LODZ        40073
+#define ID_SRODKITRANSPORTU_SMOKMILUS   40074
+#define ID_SRODKITRANSPORTU_LODZ40075   40075
+#define ID_SRODKITRANSPORTU_SMOKMILUS40076 40076
+#define ID_SRODKITRANSPORTU_LATAJACAKLODA40077 40077
+#define ID_SRODKITRANSPORTU_LATAJACAMIOTLA40078 40078
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        114
+#define _APS_NEXT_COMMAND_VALUE         40079
+#define _APS_NEXT_CONTROL_VALUE         1002
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif
